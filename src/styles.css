@@ -177,5 +177,5 @@ html,body{margin:0;overflow:hidden;background:var(--story-ink)}button{font:inher
 .step-card p{font-size:18.5px}.feature-card p{font-size:17px}
 .roadmap-card h3{font-size:52px;font-weight:800;line-height:.9;letter-spacing:-.04em}
 .roadmap-card strong,.offer-card>strong{font-weight:600;letter-spacing:-.015em}
-.cover-grid h1 em{color:var(--story-red)}
+.cover-grid h1 em{color:var(--story-red-light)}
 .delivery-strip{grid-template-columns:1fr auto 1fr;gap:35px;padding:23px 30px;border:1px solid var(--story-line);border-radius:14px;background:color-mix(in oklab,var(--story-white) 3%,transparent)}
